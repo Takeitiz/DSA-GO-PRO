@@ -1,3 +1,5 @@
+// 4/5 pass
+
 #include<bits/stdc++.h>
 using namespace std;
 const int MAX = 40;
